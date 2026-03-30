@@ -1,9 +1,6 @@
 # spam-classifier
 # Spam Email Classifier
 
-A beginner-friendly machine learning project that classifies email messages as **spam** or **ham (not spam)** using the Naive Bayes algorithm.
-
-Built for a first-year B.Tech AI/ML college portfolio — no GUI, no deep learning, just clean terminal-based Python.
 
 ---
 
