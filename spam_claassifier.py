@@ -13,14 +13,14 @@ from sklearn.metrics import accuracy_score
 # 'spam' = unwanted email, 'ham' = normal email
 # -------------------------------------------------------
 
-data = {
+ data = {
     "label": [
         "spam", "spam", "spam", "spam", "spam",
         "spam", "spam", "spam", "spam", "spam",
-        "spam", "spam", "spam", "spam", "spam",
+        "spam",  "spam", "spam", "spam", "spam",
         "ham",  "ham",  "ham",  "ham",  "ham",
         "ham",  "ham",  "ham",  "ham",  "ham",
-        "ham",  "ham",  "ham",  "ham",  "ham",
+        "ham",   "ham",  "ham",  "ham",  "ham",
     ],
     "message": [
         "Congratulations! You have won a free iPhone. Click here to claim now.",
